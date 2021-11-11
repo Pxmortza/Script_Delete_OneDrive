@@ -1,4 +1,5 @@
- @echo off
+//contact to me in discord [mortza#3700]
+@echo off
 cls
 
 set x86=”%SYSTEMROOT%\System32\OneDriveSetup.exe”
