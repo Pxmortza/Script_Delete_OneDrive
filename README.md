@@ -21,5 +21,5 @@ As follows:
 <-- TASKKILL / f / im OneDrive.exe -->
 
 
-If there is a problem, send a message to my idea in Discord:
+If there is a problem, send a message to my idea in Discord: /
 [mortza#3700]
