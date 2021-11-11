@@ -8,7 +8,7 @@ It is very easy to use.
 1.Create a folder called OneDrive on drive C.
 2.Then put the file you created with the idol extension in that folder and then run it.
 3.And then say goodbye to one drive XD.
-\
+
 ## Extra tips
 
 + If your Windows is installed on a drive other than C, you need to put the OneDrive folder in the same drive folder and then run the script.
