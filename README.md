@@ -22,6 +22,6 @@ If there is a problem, send a message to my idea in Discord: \
 [mortza#3700] \
 This file writting in _Bash-lang_
 
-if have problem or after Unistall OneDrive you need this is not problem,you have this scrept to fix and install OneDrive again:
+if have problem or after Unistall OneDrive you need this is not problem,you have this script to fix and install OneDrive again:
 
 install_wim_tweak.exe /o /c "Microsoft-Windows-OneDrive" /r
