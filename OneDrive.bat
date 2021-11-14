@@ -1,4 +1,6 @@
-//contact to me in discord [mortza#3700]
+::Creator mortza
+::Join THE BalckGuard Server to Other Tool...
+::IN DISCOR https://discord.com/invite/4DbuQRg6YX
 @echo off
 cls
 
